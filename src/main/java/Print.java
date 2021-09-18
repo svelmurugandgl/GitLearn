@@ -1,6 +1,6 @@
 package javatest;
 
-public class CheckJavaTest 
+public class Print
 {
 public static void main(String args[])
 {
