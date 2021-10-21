@@ -3,3 +3,4 @@ docker file need to be added
 docker image ls
 docker build -t gitimage
 docker learning
+docker images FROM, RUN, CMD
